@@ -24,8 +24,11 @@ Minimal Goals
 
 
 Stretch Goals
+
 Have video conversations
+
 Rewards ex:achievements or badges 
+
 Friend system
 
 Project Timeline
@@ -33,21 +36,28 @@ Project Timeline
 Milestone 1
 
 Login and user registration + a pop up topic quiz
+
 Text Field where user can search topics and genres
 
 Milestone 2
 
 Peer to Peer connectivity
+
 Creation of a matchmaking system
+
 Access to a Profile Tab
+
 Creating a Ruleset
 
 
 Milestone 3
  
 Text based UI; live communication over text
+
 Working instant messaging system
+
 Timer
+
 Visually inviting graphics
 
 
