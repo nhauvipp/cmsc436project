@@ -3,10 +3,15 @@
 **CMSC436 Project Proposal: Debate App**
 
 **Project Team 25**
+
 Eric Gulich
+
 Terrell Davis
+
 Huu Nguyen
+
 Yusuke Sato
+
 Aarav Naveen
 
 **App Description**
