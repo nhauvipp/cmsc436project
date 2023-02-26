@@ -23,10 +23,12 @@ People have 2 minutes to respond.
 **Minimal Goals**
 
 1.That two people will be able to connect to each other and debate live.
-2.Create a matchmaking system for people to connect
-3.Messaging through text 
-4.Timer
 
+2.Create a matchmaking system for people to connect
+
+3.Messaging through text 
+
+4.Timer
 
 **Stretch Goals**
 
